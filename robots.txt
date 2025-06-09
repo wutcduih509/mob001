@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-
-sitemap: https://mob001.pages.dev/sitemap.xml
+User-agent: *Allow: /sitemap: https://mob001.pages.dev/sitemap.xml
